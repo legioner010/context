@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">content</string>
+
+
+    <string name="offer">Оффер</string>
+    <string name="result">Резулт</string>
+    <string name="effect">Еффект</string>
+
+
+    <string-array name="color_selection">
+        <item>красный</item>
+        <item>оранжевый</item>
+        <item>желтый</item>
+        <item>зеленый</item>
+        <item>голубой</item>
+        <item>синий</item>
+    </string-array>
+    
+    
+    <string-array name="color_result">
+        <item>Возбуждающий</item>
+        <item>Тонизирующий</item>
+        <item>Тонизирующий, физиологически</item>
+        <item>Физиологически оптимальный</item>
+        <item>Успокаивающий</item>
+        <item>Успокаивающее</item>
+    </string-array>
+
+</resources>
